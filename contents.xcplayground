@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Godam'/>
+        <page name='OkayGoogle'/>
+        <page name='Subscripting Dictonaries'/>
+        <page name='Loops and String Interpolation'/>
+        <page name='OPtionals'/>
+        <page name='OddEven'/>
+        <page name='UserInputCheck'/>
+        <page name='test'/>
+    </pages>
+</playground>
